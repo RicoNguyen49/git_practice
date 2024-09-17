@@ -4,3 +4,5 @@ By Rico Nguyen
 I was Born to the hiddden leaf village
 
 (P1) I was born as a shinobi.
+
+(P2) I was born as a kunoichi
