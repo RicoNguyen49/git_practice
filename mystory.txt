@@ -10,3 +10,5 @@ I was Born to the hiddden leaf village
 (P3) I was born as a fish. 
 
 (P1) My favorite food is Pizza.
+
+(P) My favorite food is smoothies.
