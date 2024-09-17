@@ -1,7 +1,7 @@
 This is the beginning of my great tale.
 By Rico Nguyen 
 
-I was Born to the hiddden leaf village
+I was Born to the hidden leaf village
 
 (P1) I was born as a shinobi.
 
@@ -9,4 +9,10 @@ I was Born to the hiddden leaf village
 
 (P3) I was born as a fish. 
 
+(P1) My favorite food is Pizza.
+
+(P2) My favorite food is smoothies
+
 (P3) Neigh, I was born a fox. 
+
+
